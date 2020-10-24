@@ -8,7 +8,7 @@ Skills: PYTHON / C# / UNITY / HTML / CSS
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VIOOI&hide=contribs&theme=react)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VIOOI&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VIOOI)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VIOOIWT&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
