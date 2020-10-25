@@ -7,6 +7,8 @@ Skills: PYTHON / C# / UNITY / HTML / CSS
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VIOOI&hide=contribs)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VIOOIWT)](https://github.com/anuraghazra/github-readme-stats)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VIOOI&repo=test)](https://github.com/anuraghazra/github-readme-stats)
 
 
