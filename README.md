@@ -2,7 +2,7 @@
 #### Пока что я просто учащийся среднего Российского колледжа, но 
 У меня огромный потенциал и не только он, но об этот не здесь, я очень хочу быть настоящим разработчиком и всё для этого делаю. Далее будут показаны навыки, которыми я хочу владеть, но это не значит, что буду ими владеть:
 
-Skills: PYTHON / C# / UNITY / HTML / CSS
+Skills: JavaScript / React / HTML / CSS
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VIOOI&hide=contribs)
