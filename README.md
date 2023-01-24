@@ -46,3 +46,6 @@
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VIOOI&repo=Reveler)](https://github.com/VIOOI/Reveler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VIOOI&repo=suea-template)](https://github.com/VIOOI/suea-template)
+
